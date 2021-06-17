@@ -1,11 +1,11 @@
 ## Santander Dev Week - Back-end ♨️
-[![java-badge][java-img]][java]
+[![java-badge][java-img]][java] [[][]][postgre]
 
 [java-img]: https://img.shields.io/badge/Java-v8-orange
 [java]: https://www.java.com/pt-BR/download/
 
 ## Descrição 📌
-Endpoints(GET, POST, PUT, DELETE) da página de cotação da DIO com Java e banco de dados PostgreSQL.
+Criando endpoints(GET, POST, PUT, DELETE) em uma API de stocks do Santander utilizando Java e a image do PostgreSQL dentro de um container no Docker.
 
 ## Execução ✅
 Acesse a seguinte URL pra entrar na página da API de cotações: **`https://bootcamp-dio-santnder.herokuapp.com/bootcamp/swagger-ui/index.html?configUrl=/bootcamp/v3/api-docs/swagger-config#/`**

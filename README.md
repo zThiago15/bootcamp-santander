@@ -2,7 +2,7 @@
 [![java-badge][java-img]][java] [![postgre-badge][postgre-img]][postgre]
 
 [java-img]: https://img.shields.io/badge/Java-v8-orange
-[java]: https://www.java.com/pt-BR/download/
+[java]: https://www.oracle.com/java/technologies/javase-downloads.html
 
 [postgre-img]: https://img.shields.io/badge/PostgreSQL-database-blue
 [postgre]: https://www.postgresql.org/
